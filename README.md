@@ -38,8 +38,8 @@
 <p>
   <strong>Yandex Email</strong>: awesome.gail@yandex.ru<br>
   <strong>Google Email</strong>: gailmirra@gmail.com<br>
-  <strong>Telegram</strong>: <a href="https://t.me/Tichomirov2003"></a> <br>
-  <strong>VK</strong>: <a href="https://vk.com/heehee_boy"></a>
+  <strong>Telegram</strong>: <a href="https://t.me/Tichomirov2003">Telegram</a> <br>
+  <strong>VK</strong>: <a href="https://vk.com/heehee_boy">VK</a>
 </p>
 
 <!--
