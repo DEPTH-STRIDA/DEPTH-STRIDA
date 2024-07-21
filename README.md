@@ -27,6 +27,12 @@
   <li>Figma</li>
 </ul>
 
+<h3>Мои проекты</h3>
+<ul>
+  <li>  <strong>Телеграмм бот с расписанием для студентов</strong>: <a href="https://t.me/NSTU_NN_BOT">NSTU_NN_BOT</a><br></li>
+
+</ul>
+
 <h3>Другие языки и технологии</h3>
 <ul>
   <li>PostgreSQL</li>
