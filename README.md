@@ -30,7 +30,8 @@
 <h3>Мои проекты</h3>
 <ul>
   <li>  <strong>Телеграмм бот с расписанием для студентов</strong>: <a href="https://t.me/NSTU_NN_BOT">NSTU_NN_BOT</a><br></li>
-
+  <li>  <strong>Мой фриланс сайт</strong>: <a href="https://golang-developer.na4u.ru/">Golang developer</a><br></li>
+  
 </ul>
 
 <h3>Другие языки и технологии</h3>
