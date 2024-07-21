@@ -53,8 +53,8 @@
   <strong>Yandex Email</strong>: awesome.gail@yandex.ru<br>
   <strong>Google Email</strong>: gailmirra@gmail.com<br>
   <strong>Telegram</strong>: <a href="https://t.me/Tichomirov2003">Telegram</a><br>
-  <strong></strong>: <a href="https://vk.com/heehee_boy">VK</a><br>
-  <strong>😄</strong>: <a href="https://www.youtube.com/@maximpng6466">YouTube</a>
+  <strong>VK</strong>: <a href="https://vk.com/heehee_boy">VK</a><br>
+  <strong>YouTube</strong>: <a href="https://www.youtube.com/@maximpng6466">YouTube</a>
 </p>
 
 <!--
