@@ -29,6 +29,7 @@
 
 <h3>Другие языки и технологии</h3>
 <ul>
+  <li>PostgreSQL</li>
   <li>Python</li>
   <li>C++</li>
   <li>Java</li>
