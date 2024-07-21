@@ -36,12 +36,11 @@
 <!-- Контакты -->
 <h2>Контакты</h2>
 <p>
-  <a href="mailto:awesome.gail@yandex.ru">Yandex Email</a> |
-  <a href="mailto:gailmirra@gmail.com">Gmail Email</a> 
-  <a href="https://t.me/Tichomirov2003">Telegram</a> |
-  <a href="https://vk.com/heehee_boy">VK</a>
+  <strong>Yandex Email</strong>: awesome.gail@yandex.ru<br>
+  <strong>Google Email</strong>: gailmirra@gmail.com<br>
+  <strong>Telegram</strong>: <a href="https://t.me/Tichomirov2003"></a> <br>
+  <strong>VK</strong>: <a href="https://vk.com/heehee_boy"></a>
 </p>
-
 
 <!--
 **DEPTH-STRIDA/DEPTH-STRIDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
