@@ -37,8 +37,9 @@
 <h2>Контакты</h2>
 <p>
   <a href="mailto:awesome.gail@yandex.ru">Yandex Email</a> |
-  <a href="https://www.linkedin.com/in/вашlinkedin/">LinkedIn</a> |
-  <a href="https://github.com/вашgithub">GitHub</a>
+  <a href="mailto:gailmirra@gmail.com">Gmail Email</a> 
+  <a href="https://t.me/Tichomirov2003">Telegram</a> |
+  <a href="https://vk.com/heehee_boy">VK</a>
 </p>
 
 
