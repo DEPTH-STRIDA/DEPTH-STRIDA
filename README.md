@@ -21,6 +21,12 @@
   <li>JavaScript</li>
 </ul>
 
+<h3>Инструменты</h3>
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Figma</li>
+</ul>
+
 <h3>Другие языки и технологии</h3>
 <ul>
   <li>Python</li>
@@ -28,6 +34,13 @@
   <li>Java</li>
   <li>Unity (C#)</li>
   <li>Roblox Studio (Luau)</li>
+</ul>
+
+<h3>Другие инструменты</h3>
+<ul>
+  <li>Visual Studio</li>
+  <li>Miro</li>
+  <li>Adobe Premiere Pro</li>
 </ul>
 
 <!-- Мечта -->
