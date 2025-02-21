@@ -13,19 +13,22 @@
 
 ## 🛠 Технический стек
 
-### Основные технологии
+### Языки программирования
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Инструменты и технологии
+![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Sagger](https://img.shields.io/badge/-SWAGGER-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/-SWAGGER-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![SMTP](https://img.shields.io/badge/-SMTP-FFB700?style=flat-square&logo=mailgun&logoColor=black)
+![MATTERMOST](https://img.shields.io/badge/-MATTERMOST-0058A3?style=flat-square&logo=mattermost&logoColor=white)
 ![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/-SMTP-FFB700?style=flat-square&logo=mailgun&logoColor=black)
-![](https://img.shields.io/badge/-MATTERMOST-0058A3?style=flat-square&logo=mattermost&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-MOJKLASS-FF6F00?style=flat-square&logo=mojklas&logoColor=white)
+![MOJKLASS](https://img.shields.io/badge/-MOJKLASS-FF6F00?style=flat-square&logo=mojklas&logoColor=white)
 
 💡 Имею обширный опыт разработки различных проектов: от простых ботов до комплексных систем с микросервисной архитектурой.
 Реализовал множество коммерческих решений, включая Telegram боты, веб-приложения и системы автоматизации бизнес-процессов. Еще больше проектов на моем GitHub аккаунте.
