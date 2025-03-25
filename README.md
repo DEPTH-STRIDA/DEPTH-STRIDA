@@ -38,4 +38,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Tichomirov2003)
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/heehee_boy)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@maximpng6466)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tichomirov@golang-developer.ru)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tichomirov@golang-developer.ru)tichomirov@golang-developer.ru
